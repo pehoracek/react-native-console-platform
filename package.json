@@ -1,6 +1,6 @@
 {
   "name": "react-native-console-platform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Platform-specific console logging for React Native",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
