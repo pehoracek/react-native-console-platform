@@ -10,13 +10,25 @@
   },
   "keywords": [
     "react-native",
+    "expo",
     "console",
     "debug",
     "logging",
     "platform"
   ],
-  "author": "Your Name",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pehoracek/react-native-console-platform.git"
+  },
+  "author": "Petr Horacek <petrhoracekdev@gmail.com> (https://github.com/pehoracek)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pehoracek/react-native-console-platform/issues"
+  },
+  "homepage": "https://github.com/pehoracek/react-native-console-platform#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "peerDependencies": {
     "react-native": ">=0.60.0"
   },
